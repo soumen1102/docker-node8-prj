@@ -1,4 +1,4 @@
-FROM node:8
+FROM node:14.21.3-bullseye-slim
 
 # Change working directory
 WORKDIR "/app"
