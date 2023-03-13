@@ -1,4 +1,4 @@
-FROM node:8
+FROM node:lts-slim
   
 ENV PORT 3000
 
